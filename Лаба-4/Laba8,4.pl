@@ -1,0 +1,1 @@
+readLMin:-write("N = "),read(N), nl,readList(N,List),minListUp(List,Min),write("min = "),write(Min).
